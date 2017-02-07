@@ -39,3 +39,24 @@
     padding-top: 5px;
     font-size: 16px;
 }
+
+#gb#gb a.gb_b {
+    color: #000 !important;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#gb#gb.gb_X a.gb_P, #gb#gb.gb_X span.gb_P, #gb#gb .gb_X a.gb_P, #gb#gb .gb_X span.gb_P {
+    color: #000 !important;
+}
+
+.gb_3b {
+    background-image: url(//ssl.gstatic.com/gb/images/v1_76783e20.png) !important;
+    -webkit-background-size: 92px 2541px;
+    background-size: 92px 2541px;
+}
+
+a.gb_b.gb_3b {
+    background-position: -35px -311px !important;
+    opacity: .55;
+}
